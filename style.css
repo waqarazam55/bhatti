@@ -22,18 +22,18 @@ header{
 	height: 50px;
 }
 
-#main .LOGO {
+#main .Logo {
 	float: left;
 }
 
-.LOGO {
+.Logo {
 	background: url(Logo.png);
 	width: 150px;
 	height: 150px;
 	background-position: center;
 	background-size: cover;
 	margin-left: 40px;
-	margin-top: 40px;
+	margin-top: -25px;
 
 }
 
